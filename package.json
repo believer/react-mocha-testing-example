@@ -1,0 +1,23 @@
+{
+  "name": "react-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rickard Laurin <rickard.laurin@gmail.com> (http://rickardlaurin.se/)",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "gulp": "^3.9.0",
+    "gulp-mocha": "^2.1.2",
+    "jsdom": "^5.4.3",
+    "moment": "^2.10.3",
+    "proxyquire": "^1.5.0",
+    "react": "^0.13.3",
+    "react-tools": "^0.13.3",
+    "sinon": "^1.15.4",
+    "sinon-chai": "^2.8.0"
+  }
+}
